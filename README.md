@@ -13,50 +13,23 @@ GPA: 3.99
 
 ## 📚 Relevant Coursework
 
-(* indicates a course in progress - Fall 2021)
-
-### Programming:
+### Computer Science:
 
 - Java Sequence: [CISC. 1115](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1115&div=U), [CISC. 3115](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3115&div=U)
-- Python Sequence: [CISC. 1215](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1215&div=U), [CISC. 3225](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data)*
+- Python Sequence: [CISC. 1215](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1215&div=U), [CISC. 3225](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data)
 - Web Development: [CISC. 3140](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3140&div=U)
-
-  #TODO:
-
-- C++: [CISC. 3142](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3142&div=U)
-
-
-### Theory:
-
 - Data Structures & Algorithms: [CISC. 3130](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3130&div=U), [CISC. 3220](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3220&div=U)
 - Discrete Structures & Comp. Architecture: [CISC. 2210](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=2210&div=U), [CISC. 3310](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3310&div=U)
-- Cryptography: [MATH. 3107/CISC. 3240](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
-
-  #TODO:
-
-- Operating Systems: [CISC. 3320](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3320&div=U)
-
-### Data Science:
-
-- Data Tools & Algorithms in Python: [CISC. 3225](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data)*
-- Probability & Statistics: [MATH. 3501](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U), [MATH. 4531](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/math/course_details.php?&1=1&dsc=MATH.&crs_num=4531&div=U&mode=data)*
-
-  #TODO:
-
-- Machine Learning: [CISC. 3440](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3440&div=U)
+- Cryptography: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
 
 
-### Core Mathematics:
+### Mathematics:
 
-- Calculus, Basic: [MATH. 1201 (Calculus I)](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1201&div=U), [MATH. 1206 (Calculus II)](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1206&div=U)
-- Calculus, Intermediate: [MATH. 2201 (Calculus III)](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2201&div=U), [2206 (Ordinary Differential Equations)](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
+- Calculus: [MATH. 1201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1201&div=U)  (Calculus I), [MATH. 1206 ](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1206&div=U) (Calculus II), [MATH. 2201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2201&div=U) (Calculus III), [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U) (Ordinary Differential Equations)
 - Linear Algebra: [MATH. 2101](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2101&div=U)
-- Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)*
+- Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)
+- Probability & Statistics: MATH. 3501, MATH. 4531
 
-  #TODO:
-
-- Advanced Calculus/Intro to Real Analysis: [MATH. 4201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4201&div=U)
-- Mathematical Modelling & Simulation: [MATH. 3202](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3202&div=U)
 
 # ⚙️Projects:
 
