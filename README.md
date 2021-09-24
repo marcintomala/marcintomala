@@ -28,13 +28,13 @@ GPA: 3.99
 - Calculus: [MATH. 1201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1201&div=U)  (Calculus I), [MATH. 1206 ](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=1206&div=U) (Calculus II), [MATH. 2201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2201&div=U) (Calculus III), [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U) (Ordinary Differential Equations)
 - Linear Algebra: [MATH. 2101](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2101&div=U)
 - Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)
-- Probability & Statistics: MATH. 3501, MATH. 4531
+- Probability, Statistics: [MATH. 3501](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U), [MATH. 4531](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/math/course_details.php?&1=1&dsc=MATH.&crs_num=4531&div=U&mode=data)
 
 
 # ⚙️Projects:
 
-- Web App (A simple movie database, Postgres/Express/Node, hosted on Heroku [here](https://moviedb-3140.herokuapp.com/) [Still work in progress]
-- Data Analysis Project - *COMING SOON*
+- Web App (A simple movie database, Postgres/Express/Node, hosted on Heroku [here](https://moviedb-3140.herokuapp.com/)
+- [Data Analysis Project](https://github.com/Mordyfier/CISC3225) - (An introductory project done in [CISC. 3225 - Data Tools & Algorithms](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data) - an attempt at reproducing the results of analysis similar to the one found in *Moneyball*) 
 
 <!--
 **Mordyfier/Mordyfier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
