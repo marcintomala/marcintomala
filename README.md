@@ -23,13 +23,23 @@ GPA: 3.99
 - Discrete Structures & Comp. Architecture: [CISC. 2210](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=2210&div=U), [CISC. 3310](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3310&div=U)
 - Cryptography: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
 
+#### Spring '22:
+
+- Programming Paradigms in C++: [CISC. 3142](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3142&div=U)
+- Operating Systems: [CISC. 3320](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3320&div=U)
+
 
 ### Mathematics:
 
-- Differential Equations: [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
 - Linear Algebra: [MATH. 2101](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2101&div=U)
+- Differential Equations: [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
 - Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)
 - Probability, Statistics: [MATH. 3501](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U), [MATH. 4531](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/math/course_details.php?&1=1&dsc=MATH.&crs_num=4531&div=U&mode=data)
+
+#### Spring '22:
+
+- Mathematical Modeling and Simulation: [MATH. 3202](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3202&div=U)
+- Advanced Calculus (Intro to Real Analysis): [MATH. 4201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4201&div=U)
 
 
 # ⚙️Projects:
