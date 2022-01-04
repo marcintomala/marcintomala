@@ -17,11 +17,11 @@ GPA: 3.99
 ### Computer Science:
 
 - Java Sequence: [CISC. 1115](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1115&div=U), [CISC. 3115](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3115&div=U)
-- Python Sequence: [CISC. 1215](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1215&div=U), [CISC. 3225](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data)
-- Web Development: [CISC. 3140](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3140&div=U)
+- Python & Data Analysis Sequence: [CISC. 1215](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=1215&div=U), [CISC. 3225](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data)
+- Software/Web Development: [CISC. 3140](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3140&div=U)
 - Data Structures & Algorithms: [CISC. 3130](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3130&div=U), [CISC. 3220](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3220&div=U)
-- Discrete Structures & Comp. Architecture: [CISC. 2210](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=2210&div=U), [CISC. 3310](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3310&div=U)
-- Cryptography: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
+- Discrete Maths & Comp. Architecture: [CISC. 2210](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=2210&div=U), [CISC. 3310](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3310&div=U)
+- Cryptography & Cryptanalysis: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
 
 #### Spring '22:
 
@@ -32,7 +32,7 @@ GPA: 3.99
 ### Mathematics:
 
 - Linear Algebra: [MATH. 2101](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2101&div=U)
-- Differential Equations: [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
+- Ordinary Differential Equations: [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
 - Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)
 - Probability, Statistics: [MATH. 3501](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U), [MATH. 4531](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/math/course_details.php?&1=1&dsc=MATH.&crs_num=4531&div=U&mode=data)
 
