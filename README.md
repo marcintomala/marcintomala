@@ -40,7 +40,7 @@ GPA: 3.99
 #### Spring '22:
 
 - Mathematical Modeling and Simulation: [MATH. 3202](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3202&div=U)
-- Advanced Calculus (Intro to Real Analysis): [MATH. 4201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4201&div=U)
+- Advanced Calculus: [MATH. 4201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4201&div=U)
 
 
 # ⚙️Projects:
