@@ -44,9 +44,10 @@ GPA: 3.99
 
 
 # ⚙️Projects:
+- [Meopets](https://meopets.netlify.app/) - A full-stack web app (developed using Postgres, Express, React, Node - PERN stack) that allows users to adopt and nurture a virtual pet. [Frontend](https://github.com/lucylee-412/meopets-frontend)[Backend](https://github.com/lucylee-412/meopets-backend)
 
-- [Web App](https://github.com/Mordyfier/CISC3140/tree/master/Lab%204.3) (A simple movie database, Postgres/Express/Node, hosted on Heroku [here](https://moviedb-3140.herokuapp.com/))
 - [Data Analysis Project](https://github.com/Mordyfier/baseball-data-analysis) - (An introductory project done in [CISC. 3225 - Data Tools & Algorithms](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data) - an attempt at reproducing the results of analysis similar to the one found in *Moneyball*) 
+- [Web App](https://github.com/Mordyfier/CISC3140/tree/master/Lab%204.3) (A simple movie database, Postgres/Express/Node, hosted on Heroku [here](https://moviedb-3140.herokuapp.com/))
 
 <!--
 **Mordyfier/Mordyfier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
