@@ -53,7 +53,7 @@ GPA: 3.99
   - [Backend](https://github.com/marcintomala/Campuses-Students-Backend)
 
 - [Data Analysis Project](https://github.com/Mordyfier/baseball-data-analysis) - (An introductory project done in [CISC. 3225 - Data Tools & Algorithms](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/departments/computers/undergraduate/course_details.php?&1=1&dsc=CISC.&crs_num=3225&div=U&mode=data) - an attempt at reproducing the results of analysis similar to the one found in *Moneyball*) 
-- [Web App](https://github.com/Mordyfier/CISC3140/tree/master/Lab%204.3) (A simple movie database, Postgres/Express/Node, hosted on Heroku [here](https://moviedb-3140.herokuapp.com/))
+- [MoviesDB](https://github.com/Mordyfier/CISC3140/tree/master/Lab%204.3) (A simple movies database GUI - a tightly coupled web app created using Postgres/Express/Node and Pugs templating engine. Hosted on Heroku [here](https://moviedb-3140.herokuapp.com/) - pagination has not yet been implemented and thus all 9.7k movies from the movielens dataset load at once)
 
 <!--
 **Mordyfier/Mordyfier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
