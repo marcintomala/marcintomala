@@ -5,7 +5,7 @@ Marcin
 
 # 🎓Education 
 #### CUNY Brooklyn College
-Pursuing B.S. in Computer Science and Computational Mathematics,
+Pursuing B.S. in Computer Science and Applied Mathematics,
 Minor in Data Science
 
 Expected graduation date: December 2022
