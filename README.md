@@ -22,12 +22,13 @@ GPA: 3.99
 - Data Structures, Algorithms: [CISC. 3130](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3130&div=U), [CISC. 3220](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3220&div=U)
 - Discrete Maths, Comp. Architecture: [CISC. 2210](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=2210&div=U), [CISC. 3310](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3310&div=U)
 - Cryptography and Cryptanalysis: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
-
-#### Spring '22:
-
 - Programming Paradigms in C++: [CISC. 3142](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3142&div=U)
 - Operating Systems: [CISC. 3320](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3320&div=U)
 
+
+#### Fall '22:
+
+- Machine Learning: [CISC. 3440](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3440&div=U)
 
 ### Mathematics:
 
@@ -35,10 +36,6 @@ GPA: 3.99
 - Ordinary Differential Equations: [MATH. 2206](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=2206&div=U)
 - Probability, Statistics: [MATH. 3501](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3501&div=U), [MATH. 4531](http://www.brooklyn.cuny.edu/web/academics/schools/naturalsciences/undergraduate/math/course_details.php?&1=1&dsc=MATH.&crs_num=4531&div=U&mode=data)
 - Numerical Analysis: [MATH. 4701](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4701&div=U)
-
-
-#### Spring '22:
-
 - Mathematical Modeling and Simulation: [MATH. 3202](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3202&div=U)
 - Advanced Calculus: [MATH. 4201](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=4201&div=U)
 
