@@ -5,7 +5,7 @@ Marcin
 
 # 🎓Education 
 #### CUNY Brooklyn College, '22
-B.S. in Computer Science and Applied Mathematics,
+B.S. in Computer Science and Computational Mathematics,
 Minor in Data Science
 
 GPA: 3.99
