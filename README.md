@@ -4,11 +4,9 @@
 Marcin
 
 # 🎓Education 
-#### CUNY Brooklyn College
-Pursuing B.S. in Computer Science and Applied Mathematics,
+#### CUNY Brooklyn College, '22
+B.S. in Computer Science and Applied Mathematics,
 Minor in Data Science
-
-Expected graduation date: December 2022
 
 GPA: 3.99
 
@@ -24,10 +22,6 @@ GPA: 3.99
 - Cryptography and Cryptanalysis: [MATH. 3107](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=MATH.&crs_num=3107&div=U)
 - Programming Paradigms in C++: [CISC. 3142](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3142&div=U)
 - Operating Systems: [CISC. 3320](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3320&div=U)
-
-
-#### Fall '22:
-
 - Machine Learning: [CISC. 3440](http://www.brooklyn.cuny.edu/courses/ShowCourse.do?redirect=/acad/course_info.jsp&dsc=CISC.&crs_num=3440&div=U)
 
 ### Mathematics:
