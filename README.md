@@ -1,6 +1,6 @@
 Hello 😊
 
-# ⚙️ Work
+### ⚙️ Work
 American Express 
 
 Software Engineer Intern | Jun-Aug 2022 
@@ -9,7 +9,7 @@ Software Engineer I | Jan 2023 - Jun 2025
 
 Software Engineer II | Jul 2025 - 
 
-# 🎓Education 
+### 🎓Education 
 #### CUNY Brooklyn College, '22
 B.S. in Computer Science and Computational Mathematics,
 Minor in Data Science
