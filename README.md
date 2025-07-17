@@ -1,7 +1,7 @@
 Hello 😊
 
 # ⚙️ Work
-| American Express | 
+American Express 
 
 Software Engineer Intern | Jun-Aug 2022 
 
