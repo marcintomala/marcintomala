@@ -9,6 +9,17 @@ Software Engineer I | Jan 2023 - Jun 2025
 
 Software Engineer II | Jul 2025 - 
 
+### 📚 Experience
+
+- Java/Spring Boot
+- Reactive Java (Project Reactor)
+- SQL (Postgres) & NoSQL (Cassandra)
+- Kafka
+- Docker & Kubernetes
+- TDD, DDD, Event Sourcing, Microservices
+- JavaScript & Node & React
+- Python (Scripting, Data Analysis)
+
 ### 🎓Education 
 #### CUNY Brooklyn College, '22
 B.S. in Computer Science and Computational Mathematics,
